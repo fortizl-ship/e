@@ -22,7 +22,7 @@ body {
 }
 
 .images img {
-    width: 5%;
+    width: 8%;
     height: auto;
     border-radius: 5px; /* Bordes redondeados */
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra opcional */
@@ -49,12 +49,12 @@ footer {
 }
 .h1{
     text-align: center;
-    width: 100%;
+    width: 60%;
 }
 .titulo-productos {
     text-align: center; /* Centrar el texto */
-    font-size: 8em; /* Tamaño más grande */
-    margin-bottom: 20px; /* Espacio entre el título y las imágenes */
+    font-size: 2.5em; /* Tamaño más grande */
+    margin-bottom: 50px; /* Espacio entre el título y las imágenes */
     color: #333; /* Color opcional, ajusta según tu diseño */
     font-weight: bold; /* Negrita para destacar */
     margin-top: 5%;
